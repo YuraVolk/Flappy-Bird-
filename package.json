@@ -23,7 +23,7 @@
     "@babel/polyfill": "^7.2.5",
     "babel-core": "^7.0.0-bridge.0",
     "node-openssl-cert": "0.0.93",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "pug-loader": "^2.4.0",
     "serialize-javascript": "^3.1.0",
     "http-proxy": "1.18.1",
